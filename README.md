@@ -4,3 +4,7 @@
 [Android校招面试指南](https://github.com/LRH1993/android_interview)
 
 [<Android 进阶（二）> 自定义View之Dota2能力雷达图](http://blog.csdn.net/poorkick/article/details/78267143)
+
+[弧形ViewPager 和弧形HeaderView](https://juejin.im/post/59e363a26fb9a045055d29e6)
+
+[一套完整有效的android组件化方案](https://github.com/luojilab/DDComponentForAndroid)
