@@ -8,3 +8,5 @@
 [弧形ViewPager 和弧形HeaderView](https://juejin.im/post/59e363a26fb9a045055d29e6)
 
 [一套完整有效的android组件化方案](https://github.com/luojilab/DDComponentForAndroid)
+
+[Ubuntu16.04下搭建最新LAMP环境](http://www.jianshu.com/p/3671f08377dd)
