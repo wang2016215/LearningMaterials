@@ -15,19 +15,4 @@
 
 [rxjava+retrofit+okhttp](https://github.com/swinner/RetrofitWrapperDemo)
 
-
-
-开启和关闭Apache2 服务
---
-	Task: Start Apache 2 Server /启动apache服务
-	# /etc/init.d/apache2 start
-    or
-    $ sudo /etc/init.d/apache2 start
-    Task: Restart Apache 2 Server /重启apache服务
-    # /etc/init.d/apache2 restart
-    or
-    $ sudo /etc/init.d/apache2 restart
-    Task: Stop Apache 2 Server /停止apache服务
-    # /etc/init.d/apache2 stop
-    or
-    $ sudo /etc/init.d/apache2 stop 
+[开启和关闭Apache2 服务](https://github.com/wang2016215/LearningMaterials/blob/master/service%20.md)
