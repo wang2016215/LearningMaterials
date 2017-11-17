@@ -18,3 +18,5 @@
 [开启和关闭Apache2 服务](https://github.com/wang2016215/LearningMaterials/blob/master/service%20.md)
 
 [ble蓝牙](https://github.com/xiaoyaoyou1212/BLE)
+
+[网络库与Rxjava2结合常见使用场景介绍](https://juejin.im/post/5a0d4cd851882531ba108090)
