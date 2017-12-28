@@ -29,8 +29,12 @@
 
 [Android校招面试指南](https://github.com/LRH1993/android_interview)
 
+[面试宝典](https://github.com/open-android/Android)
+
 #NDK学习
+
 [google官方demo](https://juejin.im/post/5a41e24b6fb9a0452207c231)
 
 #图片压缩
+
 [jpeg](https://github.com/AndroidHensen/BitmapCompress)
