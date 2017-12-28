@@ -21,7 +21,7 @@
 
 [网络库与Rxjava2结合常见使用场景介绍](https://juejin.im/post/5a0d4cd851882531ba108090)
 
-#面试
+# 面试
 
  [程序员常用的刷题网站](http://www.jianshu.com/p/df4fabc5dc74)
 
@@ -31,10 +31,10 @@
 
 [面试宝典](https://github.com/open-android/Android)
 
-#NDK学习
+# NDK学习
 
 [google官方demo](https://juejin.im/post/5a41e24b6fb9a0452207c231)
 
-#图片压缩
+# 图片压缩
 
 [jpeg](https://github.com/AndroidHensen/BitmapCompress)
