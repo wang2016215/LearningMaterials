@@ -35,6 +35,8 @@
 
 [google官方demo](https://juejin.im/post/5a41e24b6fb9a0452207c231)
 
+[编译ffmpeg](https://juejin.im/post/5a30f7a26fb9a0452b493b2a)
+
 # 图片压缩
 
 [jpeg](https://github.com/AndroidHensen/BitmapCompress)
